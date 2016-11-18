@@ -1,0 +1,47 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\RileyKin\Documents\Unity\Space Shooter Tut\Builds\PC\Space Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,-311
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.737012 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 427c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367914 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.283041 ms (FindLiveObjects: 0.035133 ms CreateObjectMapping: 0.023290 ms MarkObjects: 0.219879 ms  DeleteObjects: 0.003947 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.909916 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.487130 ms (FindLiveObjects: 0.040660 ms CreateObjectMapping: 0.064740 ms MarkObjects: 0.367519 ms  DeleteObjects: 0.013027 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.872019 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.460287 ms (FindLiveObjects: 0.057634 ms CreateObjectMapping: 0.056450 ms MarkObjects: 0.332780 ms  DeleteObjects: 0.012632 ms)
+
